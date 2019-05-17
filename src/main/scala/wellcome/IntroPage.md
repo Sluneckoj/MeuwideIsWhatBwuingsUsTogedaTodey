@@ -1,12 +1,12 @@
 #                                               **Marie & Daniel**
 
-## Vam timto s radosti oznamuji,
-## ze si slibi,
+#### Vam timto s radosti oznamuji,
+#### ze si slibi,
 
-## lasku uctu a vernost v kostele sv. Martina
+#### lasku uctu a vernost v kostele sv. Martina
 
-## v Dolnim ujezde u Litomysle,
-## dne 19.10.2019
+#### v Dolnim ujezde u Litomysle,
+#### dne 19.10.2019
 
 ![](./IMG_20180915_1833576-panorama~2.jpg)
 
