@@ -1,5 +1,7 @@
 #                                               **Marie & Daniel**
 
+[](./IMG_20180915_1833576-panorama~2.jpg)
+
 Vam timto s radosti oznamuji:
 
 >ze si slibi,
