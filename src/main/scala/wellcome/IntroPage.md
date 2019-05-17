@@ -1,6 +1,6 @@
 #                                               **Marie & Daniel**
 
-[]K(./IMG_20180915_1833576-panorama~2.jpg)
+[](./IMG_20180915_1833576-panorama~2.jpg)
 
 Vam timto s radosti oznamuji:
 
