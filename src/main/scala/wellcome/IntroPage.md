@@ -1,4 +1,4 @@
-#                                               Marie & Daniel
+#                                               **Marie & Daniel**
 
 vam timto s radosti oznamuji,
    ze si slibi,
