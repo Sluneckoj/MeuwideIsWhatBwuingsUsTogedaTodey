@@ -3,7 +3,7 @@
 Vam timto s radosti oznamuji,
 ze si slibi,
 
-*lasku uctu a vernost*
+**lasku, uctu a vernost**
 
 v kostele sv. Martina
 v Dolnim ujezde u Litomysle,
