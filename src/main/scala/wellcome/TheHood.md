@@ -1,4 +1,4 @@
 # Ubytovani
 
 
-zpet na hlavni strnaku: [Link](./IntroPage.md)
+ [zpet na hlavni stranku](./IntroPage.md)
