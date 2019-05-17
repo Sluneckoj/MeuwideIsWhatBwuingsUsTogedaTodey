@@ -15,4 +15,4 @@ Protoze tak hodlame ucinit v pritomnosti mnoha lidi,
 je pro vas pripravena tato stranka obsahujici temer vsechny potrebne informace.
 
 
-[Informace o ubytovani](./TheHood.md)
+[##Informace o ubytovani](./TheHood.md)
