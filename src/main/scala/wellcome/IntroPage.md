@@ -7,5 +7,9 @@ Vam timto s radosti oznamuji:
  v Dolnim ujezde u Litomysle,
  dne 19.10.2019
 
-### Informace o ubytovani
-naleznete na odkaze: [Link]
+
+Protoze tak hodlame ucinit v pritomnosti mnoha lidi,
+je pro vas pripravena tato stranka obsahujici temer vsechny potrebne informace.
+
+
+[Informace o ubytovani](./TheHood.md)
