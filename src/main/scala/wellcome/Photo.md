@@ -1,14 +1,14 @@
-Pokud jste cekali, ze zde naleznete nejake fotky zenicha a nevesty,
+Pokud jste cekali, ze zde naleznete nejake fotky zenicha a nevesty,\
 cekali jste, jak vidno, spatne. Presto prosim doctete par nasledujicich radku.
 
-Nase svatba neni svetskym obradem, ale obradem cirkevnim, a proto
-je pro nas okamzik samotny cennejsi, nez uchovani hmotne pamatky na nej.
-Z tohoto mame pouze fotografa, nikoliv vsak kameramana, abychom nenarusovali
+Nase svatba neni svetskym obradem, ale obradem cirkevnim, a proto\
+je pro nas okamzik samotny cennejsi, nez uchovani hmotne pamatky na nej.\
+Z tohoto duvodu mame pouze fotografa, nikoliv vsak kameramana, abychom nenarusovali\
 prubeh mse vice, nez je nutne.
 
-Durazne vas proto zadame abyste i Vy venovali behem obradu pozornost
-predevsim obradu samotnemu, a ne porizovani zaznamu. Pokud by vas prece
-jenom lakalo nejaky ten zaznam si poridit, opatrete si jej, prosime, zpusobem,
+Durazne vas proto zadame abyste i Vy venovali behem obradu pozornost\
+predevsim obradu samotnemu, a ne porizovani zaznamu. Pokud by vas prece\
+jenom lakalo nejaky ten zaznam si poridit, opatrete si jej, prosime, zpusobem,\
 ktery nebude rusit ani nas ani ostatni ve vasem okoli.
 
 Co to znamena?
