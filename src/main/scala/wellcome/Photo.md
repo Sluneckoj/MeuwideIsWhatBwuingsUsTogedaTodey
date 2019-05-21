@@ -1,0 +1,1 @@
+[zpet na hlavni stranku](./IntroPage.md)
