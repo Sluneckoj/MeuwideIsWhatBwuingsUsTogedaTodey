@@ -1,5 +1,5 @@
 #                                               **Marie & Daniel**
->![](./logo_small_hd.jpg)
+>>>![](./logo_small_hd.jpg)
 #                                               **Sluneckovi**
 
 # TADY BUDE: oznamko v digitální podobě
