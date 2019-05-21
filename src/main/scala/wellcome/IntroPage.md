@@ -2,8 +2,8 @@
 >![](./header.png)
 
 
-## [_________________Informace o ubytovani_________________](./TheHood.md)
-## [_________________Kde a kdy se co kona_________________](./Plan.md)
+## [~~~~~~~~~~~~~~~~~ Informace o ubytovani ~~~~~~~~~~~~~~~~~](./TheHood.md)
+## [~~~~~~~~~~~~~~~~~ Kde a kdy se co kona ~~~~~~~~~~~~~~~~~](./Plan.md)
 ##
 ## [_________________Informace k obradu_________________](./Gnosis.md)
 ## [_________________Zvolena cteni_________________](./Scripta.md)
