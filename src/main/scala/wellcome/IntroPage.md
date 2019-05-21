@@ -2,11 +2,11 @@
 >![](./header.png)
 
 
-## [Informace o ubytovani](./TheHood.md)
-## [Kde a kdy se co kona](./Plan.md)
+## [_________________Informace o ubytovani_________________](./TheHood.md)
+## [_________________Kde a kdy se co kona_________________](./Plan.md)
 ##
-## [Informace k obradu](./Gnosis.md)
-## [Zvolena cteni](./Scripta.md)
+## [_________________Informace k obradu_________________](./Gnosis.md)
+## [_________________Zvolena cteni_________________](./Scripta.md)
 ##
 ## [Fotky](./Photo.md)
 ##
