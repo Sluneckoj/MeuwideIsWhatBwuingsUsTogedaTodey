@@ -1,4 +1,4 @@
-#                                               **Marie & Daniel**
+#                                               **Marie & Daniel Sluneckovi **
 >![](./logo_small_hd.jpg)
 #                                               **  Sluneckovi**
 
