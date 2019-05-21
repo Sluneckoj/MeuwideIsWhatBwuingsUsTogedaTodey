@@ -1,4 +1,5 @@
 #                                               **Marie & Daniel**
+![](./logo_small_hd.jpg)
 
 # TADY BUDE: oznamko v digitální podobě
 
