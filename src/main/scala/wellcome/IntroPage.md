@@ -2,7 +2,7 @@
 >![](./header.png)
 
 
-## [                   Informace o ubytovani](./TheHood.md)
+## [Informace o ubytovani](./TheHood.md)
 ## [Kde a kdy se co kona](./Plan.md)
 ##
 ## [Informace k obradu](./Gnosis.md)
