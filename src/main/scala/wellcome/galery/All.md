@@ -12,4 +12,4 @@ zde naleznete par vybranych fotek pro potechu Vaseho oka.
 Ze jste nas tady vlaste nevideli?
 To nevadi, uvidime se preci na svatbe.
 
-[zpet na hlavni stranku](./IntroPage.md)
+[zpet na hlavni stranku](../IntroPage.md)
