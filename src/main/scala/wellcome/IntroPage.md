@@ -1,8 +1,7 @@
 #                                               **Marie & Daniel Slunečkovi **
 ![](./header.png)
 
-Po pročtení následujících odkazů, prosíme o vyplnení dotazníku,
-na který vede odkaz na konci stránky.
+#### Po pročtení následujících odkazů, prosíme o vyplnení dotazníku, na který vede odkaz na konci stránky.
 
 ## [Informace o ubytování](./TheHood.md)
 ## [Kde a kdy se co koná](./Plan.md)
