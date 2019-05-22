@@ -27,4 +27,4 @@ Co to znamena?
 pokud jste docetli az sem, za odmenu vam ukazeme par fotek, ktere jste zde hledali.
 lze je nalezt [ZDE](./galery/All.md)
 
-[zpět na hlavní stránku](../IntroPage.md)
+[zpět na hlavní stránku](./IntroPage.md)

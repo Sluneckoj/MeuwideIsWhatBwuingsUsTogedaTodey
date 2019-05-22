@@ -1,1 +1,1 @@
-[zpět na hlavní stránku](../IntroPage.md)
+[zpět na hlavní stránku](./IntroPage.md)
