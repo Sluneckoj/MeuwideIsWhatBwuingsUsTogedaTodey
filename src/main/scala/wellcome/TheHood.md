@@ -16,4 +16,4 @@ nebo třeba [zde](www.tasner.cz) a [zde](www.zlatahvezda.com).
 
 Další možnosti jsou již na Vás.
 
-[zpět na hlavní stránku](../IntroPage.md)
+[zpět na hlavní stránku](./IntroPage.md)
