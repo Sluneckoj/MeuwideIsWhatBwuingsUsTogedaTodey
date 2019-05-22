@@ -1,4 +1,4 @@
-zde naleznete par vybranych fotek pro potechu Vaseho oka.
+Zde naleznete pár vybraných fotek pro potěchu Vašeho oka.
 
 #![](pano1.jpg)
 #![](pano2.jpg)
@@ -10,7 +10,7 @@ zde naleznete par vybranych fotek pro potechu Vaseho oka.
 #![](pano6.jpg)
 #![](combo_3.jpg)
 
-Ze jste nas tady vlaste nevideli?
-To nevadi, uvidime se preci na svatbe.
+Že jste nás tady vlastně neviděli?
+To nevadí, uvidíme se přeci na svatbě.
 
-[zpet na hlavni stranku](../IntroPage.md)
+[zpět na hlavní stránku](../IntroPage.md)

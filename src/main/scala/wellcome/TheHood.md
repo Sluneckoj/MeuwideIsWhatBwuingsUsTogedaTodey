@@ -1,3 +1,3 @@
 # Ubytovani
 
- [zpet na hlavni stranku](./IntroPage.md)
+ [zpět na hlavní stránku](../IntroPage.md)
