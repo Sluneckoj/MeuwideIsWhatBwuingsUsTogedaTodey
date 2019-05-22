@@ -4,7 +4,7 @@ Z rozpočtových důvodů nejsme schopni hradit ubytování všem zvaným,
 přesto bychom Vám alespoň rádi usnadnili hledání ubytování.
 
 Proto máme pro svatební hosty předběžně rezervovaný **hostel** v Zámeckém pivovaru v Litomyšli,
-pokud byste byli rádi ubytovaní zde, prosím napište nám
+pokud byste byli rádi ubytovaní zde, prosíme napište nám
 a my vám v pravý čas zašleme heslo, pod kterým Vám bude umožněna rezervace.
 https://esclitomysl.cz/rezervace/typyPokoju
 
