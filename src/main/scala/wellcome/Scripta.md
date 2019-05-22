@@ -35,8 +35,8 @@ pod kterou je napsán. Celý text zní:
   A tak, moji milí, jako jste vždycky byli poslušní – nikoli jen v mé přítomnosti, ale nyní mnohem více v mé nepřítomnosti – s bázní a chvěním uvádějte ve skutek své spasení.
   Neboť je to Bůh, který ve vás působí, že chcete i činíte, co se mu líbí.
   Všechno dělejte bez reptání a bez pochybování,
-  abyste byli bezúhonní a ryzí, Boží děti bez poskvrny uprostřed pokolení pokřiveného a zvráceného.\
-  **V něm sviťte jako hvězdy, které osvěcují svět**,\
+  abyste byli bezúhonní a ryzí, Boží děti bez poskvrny uprostřed pokolení pokřiveného a zvráceného.
+  **V něm sviťte jako hvězdy, které osvěcují svět**,
   držte se slova života, abych se vámi mohl pochlubit v den Kristův, že jsem nadarmo neběžel ani se nadarmo nenamáhal.
 
 Ačkoliv se jedná o list psaný do Filip, věříme, že se netýká pouze vztahů uvnitř církve,
