@@ -7,7 +7,7 @@
 ## [Kde a kdy se co koná](./Plan.md)
 ##
 ## [Informace k obřadu](./Gnosis.md)
-## [Zvolena čtení](./Scripta.md)
+## [Zvolená čtení](./Scripta.md)
 ##
 ## [Fotky](./Photo.md)
 ##
