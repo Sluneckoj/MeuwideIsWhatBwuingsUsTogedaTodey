@@ -1,16 +1,18 @@
-#                                               **Marie & Daniel Sluneckovi **
->![](./header.png)
+#                                               **Marie & Daniel Slunečkovi **
+![](./header.png)
 
+Po pročtení následujících odkazů, prosíme o vyplnení dotazníku,
+na který vede odkaz na konci stránky.
 
-## [Informace o ubytovani](./TheHood.md)
-## [Kde a kdy se co kona](./Plan.md)
+## [Informace o ubytování](./TheHood.md)
+## [Kde a kdy se co koná](./Plan.md)
 ##
-## [Informace k obradu](./Gnosis.md)
-## [Zvolena cteni](./Scripta.md)
+## [Informace k obřadu](./Gnosis.md)
+## [Zvolena čtení](./Scripta.md)
 ##
 ## [Fotky](./Photo.md)
 ##
-##
+## ![#f03c15][Dotazník]{}
 ##
 
 link na -- ubytovací formulář?- mám vypsané pokoje, kde kdo je atd.
