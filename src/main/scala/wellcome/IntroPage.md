@@ -13,7 +13,7 @@ na který vede odkaz na konci stránky.
 ## [Fotky](./Photo.md)
 ##
 
-## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Dotazník]()
+## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Dotazník]()
 ##
 
 link na -- ubytovací formulář?- mám vypsané pokoje, kde kdo je atd.

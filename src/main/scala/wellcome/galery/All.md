@@ -5,6 +5,7 @@ zde naleznete par vybranych fotek pro potechu Vaseho oka.
 #![](combo1.jpg)
 #![](pano3.jpg)
 #![](pano4.jpg)
+#![](combo2.jpg)
 #![](pano5.jpg)
 #![](pano6.jpg)
 #![](combo_3.jpg)
