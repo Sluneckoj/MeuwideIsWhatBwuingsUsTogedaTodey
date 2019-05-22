@@ -15,8 +15,7 @@
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Dotazník]()
 ##
 
-#### Těšíme se, že s námi budete moci sdílet tento důležitý okamih kterým skončí  
-#### životy naše a začne ten náš.
+#### Těšíme se, že s námi budete moci sdílet tento důležitý okamih kterým skončí životy naše a začne ten náš.
 
 ![#ffffff](https://placehold.it/15/ffffff/000000?text=+)
 
