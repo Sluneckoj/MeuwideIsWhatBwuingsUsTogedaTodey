@@ -1,6 +1,6 @@
 (Nejen časový) Plán našeho svatebního dne je jednoduchý:
 
-### HH:MM_DD:MM:YYYY
+### 12:00_19:10:2019
 Se uskuteční náš svatební slib
 v kostele Sv. Martina v Dolním Újezdě.
 
