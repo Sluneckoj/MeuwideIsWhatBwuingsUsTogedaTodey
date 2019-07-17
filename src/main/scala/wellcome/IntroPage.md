@@ -1,4 +1,3 @@
-#                                               ** Marie & Daniel Slunečkovi **
 ![](./header.png)
 
 #### Po pročtení následujících odkazů, prosíme o vyplnění dotazníku, na který vede odkaz na konci stránky.
