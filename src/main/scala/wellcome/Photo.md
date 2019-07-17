@@ -1,30 +1,32 @@
-Pokud jste cekali, ze zde naleznete nejake fotky zenicha a nevesty,
-cekali jste, jak vidno, spatne. Presto prosim doctete par nasledujicich radku.
+Prosíme čtěte pozorně.
 
-Nase svatba neni svetskym obradem, ale obradem cirkevnim, a proto
-je pro nas okamzik samotny cennejsi, nez uchovani hmotne pamatky na nej.
-Z tohoto duvodu mame pouze fotografa, nikoliv vsak kameramana, abychom nenarusovali
-prubeh mse vice, nez je nutne.
+Pokud jste čekali, že zde naleznete nějaké fotky ženicha a nevěsty,
+čekali jste, jak vidno, špatně. Přesto prosím dočtěte pár následujicích řádků.
 
-Durazne vas proto zadame abyste i Vy venovali behem obradu pozornost
-predevsim obradu samotnemu, a ne porizovani zaznamu. Pokud by vas prece
-jenom lakalo nejaky ten zaznam si poridit, opatrete si jej, prosime, zpusobem,
-ktery nebude rusit ani nas ani ostatni ve vasem okoli.
+Naše svatba není světským obřadem, ale obřadem církevním, a proto
+je pro nás okamžik samotný cennější, než uchování hmotné památky na něj.
+Z tohoto důvodu máme pouze fotografa, nikoliv však kameramana, abychom nenarušovali
+průběh mše více, než je nutné.
 
-Co to znamena?
+Důrazně Vás proto žádáme abyste i Vy věnovali během obřadu pozornost
+především obřadu samotnému, a ne pořizování záznamů. Pokud by vás přecejen
+lákalo nějaký ten záznam si pořídit, opatřete si jej, prosíme, způsobem,
+který nebude rušit ani nás ani ostatní ve vašem okolí.
+
+Co to znamená v praxi?
 
 
- * budete-li porizovat zaznam ve forme videa, ucinte tak vyhradne z prostoru kuru.
+ * budete-li pořizovat záznam ve formě videa, učiňte tak výhradně z prostoru kůru.
 
- * budete-li porizovat zaznam ve forme fotografie, potom drive nez zmacknete spoust,
- trikrat se ujistete, ze mate vypnuty blesk a prosime omezte svuj pohyb na minimum
+ * budete-li pořizovat záznam ve formě fotografie, potom dříve nez zmáčknete spoušť,
+ třikrát se ujistěte, že máte vypnutý blesk a prosíme omezte svůj pohyb na minimum
 
- * budete-li porizovat zaznam ve forme rucne psanych poznamek, piste prosime rychle a potichu.
+ * budete-li pořizovat záznam ve formě ručně psaných poznámek, pište prosíme rychle a potichu.
 
- * pokud se Vam libi prostor kostela jako takovy,
- budete mit dostatek casu zaznamenat si jej po obrade
+ * pokud se Vám líbí prostor kostela jako takový,
+ budete mít dostatek času zaznamenat si jej po obřadě
 
-pokud jste docetli az sem, za odmenu vam ukazeme par fotek, ktere jste zde hledali.
-lze je nalezt [ZDE](./galery/All.md)
+pokud jste dočetli až sem, za odměnu Vám ukážeme pár fotek, které jste zde hledali.
+lze je nalézt [ZDE](./galery/All.md)
 
 [zpět na hlavní stránku](./IntroPage.md)

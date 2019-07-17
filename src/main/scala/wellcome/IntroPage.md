@@ -1,15 +1,16 @@
-#                                               **Marie & Daniel Slunečkovi **
+#                                               ** Marie & Daniel Slunečkovi **
 ![](./header.png)
 
-#### Po pročtení následujících odkazů, prosíme o vyplnení dotazníku, na který vede odkaz na konci stránky.
+#### Po pročtení následujících odkazů, prosíme o vyplnění dotazníku, na který vede odkaz na konci stránky.
+#### Červeně označené odkazy čtěte prosíme pozorně a důkladně
 
 ## [Informace o ubytování](./TheHood.md)
-## [Kde a kdy se co koná](./Plan.md)
+## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Kde a kdy se co koná](./Plan.md)
 ##
 ## [Informace k obřadu](./Gnosis.md)
 ## [Zvolená čtení](./Scripta.md)
 ##
-## [Fotky](./Photo.md)
+## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Fotky](./Photo.md)
 ##
 
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Dotazník]()
