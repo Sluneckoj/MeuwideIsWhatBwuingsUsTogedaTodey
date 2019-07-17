@@ -57,4 +57,4 @@ K tomuto nelehkému cíli bychom společně rádi směřovali a budeme rádi,
 budete-li nám v tom pomocí, aby naše společné jméno mohlo být více,
 než jenom shluk hlásek na občance.
 
-[zpět na hlavní stránku](./IntroPage.md)
+# [zpět na hlavní stránku](./IntroPage.md)

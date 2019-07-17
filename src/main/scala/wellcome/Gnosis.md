@@ -1,4 +1,4 @@
 INFORMACE BUDOU DODANY V BRZKE DOBE.
 ZKUSTE TO PROSIME POZITRI.
 
-[zpět na hlavní stránku](./IntroPage.md)
+# [zpět na hlavní stránku](./IntroPage.md)
