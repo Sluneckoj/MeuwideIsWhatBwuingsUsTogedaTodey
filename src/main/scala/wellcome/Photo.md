@@ -27,6 +27,6 @@ Co to znamená v praxi?
  budete mít dostatek času zaznamenat si jej po obřadě
 
 pokud jste dočetli až sem, za odměnu Vám ukážeme pár fotek, které jste zde hledali.
-lze je nalézt [ZDE](./galery/All.md)
+Lze je nalézt [ZDE](./galery/All.md)
 
 # [zpět na hlavní stránku](./IntroPage.md)
