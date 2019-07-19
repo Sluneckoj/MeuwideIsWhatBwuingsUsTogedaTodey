@@ -10,7 +10,7 @@
 ## [Čtení](./Scripta.md)
 ## [Fotky](./Photo.md) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
-#### Těšíme se, že s námi budete moci sdílet tento důležitý okamih kterým skončí životy naše a začne ten náš.
+#### Těšíme se, že s námi budete sdílet tento důležitý okamih kterým skončí životy naše a začne ten náš.
 
 #### Chtěli bychom Vám zároveň tímto dnem společně poděkovat za všechnu podporu, sdílení radostí i těžkých chvil, společný smích i pláč.
 #### Prostě všechno, co jsme s Vámi mohli prožít, co nás formovalo, a vedlo k sobě.
