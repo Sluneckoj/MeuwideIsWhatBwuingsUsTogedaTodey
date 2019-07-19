@@ -5,12 +5,10 @@
 
 ## [Informace o ubytování](./TheHood.md)
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Kde a kdy se co koná](./Plan.md)
-##
+
 ## [Informace k obřadu](./Gnosis.md)
 ## [Čtení](./Scripta.md)
-##
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Fotky](./Photo.md)
-##
 
 #### Těšíme se, že s námi budete moci sdílet tento důležitý okamih kterým skončí životy naše a začne ten náš.
 
