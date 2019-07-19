@@ -1,24 +1,9 @@
-Jak jste si možná všimli při pročítání informací k obřadu,
-během mše se budou číst tři texty z Bible. I na našem oznámení jste si
+Na našem oznámení jste si
 mohli povšimnout krátké věty:
 > ... sviťte jako hvězdy, které osvěcují svět ...
 
 Tento úryvek pochází ze druhého čtení, které na naší svatbě zazní.
-
-Prvním čtením které zazní je text:
-
->Bůh řekl: "Učiňme člověka jako náš obraz, podle naší podoby.
-Ať vládne nad mořskými rybami, nad nebeským ptactvem,
-nad krotkými zvířaty, divokou zvěří a nad veškerou drobnou zvířenou,
- která se pohybuje po zemi." Bůh stvořil člověka jako svůj obraz,
- jak obraz Boží ho stvořil, stvořil je jako muže a ženu.
- Bůh jim požehnal slovy: "Ploďte a množte se, naplňte zemi a podmaňte si ji!
- Vládněte nad rybami moře, nad ptactvem nebe i nade všemi živočichy,
- kteří se pohybují po zemi." Bůh viděl všechno, co udělal, a hle
- - bylo to velmi dobré.
-
-
-Odkaz který jsme ale na oznámení uváděli je výrazně delší, než věta
+Odkaz který jsme na oznámení uváděli je ale výrazně delší, než věta
 pod kterou je napsán. Celý text zní:
 
 > Je-li možno povzbudit v Kristu, je-li možno posílit láskou, je-li jaké společenství Ducha, je-li jaký soucit a slitování:
@@ -41,18 +26,8 @@ pod kterou je napsán. Celý text zní:
 
 Ačkoliv se jedná o list psaný do Filip, věříme, že se netýká pouze vztahů uvnitř církve,
 ale že je možné jej vztáhnout i na vztah mezi mužem a ženou.
-
-S tím souzní i třetí čtení:
-
->"Vy jste sůl země. Jestliže však sůl ztratí chuť, čím bude osolena?
- K ničemu se už nehodí, než aby se vyhodila ven a lidé po ní šlapali.
- Vy jste světlo světa. Nemůže se skrýt město položené na hoře.
- A když se svítilna rozsvítí, nestaví se pod nádobu, ale na podstavec,
- takže svítí všem v domě. Tak ať vaše světlo svítí lidem,
- aby viděli vaše dobré skutky a velebili vašeho Otce v nebesích."
-
-Nerozumíme těmto čtením jako našemu současnému stavu.
-Rozumíme jim jako příkazu a pozvání.
+Nerozumíme mu jako popisu našeho současného stavu.
+Rozumíme mu jako příkazu a pozvání.
 K tomuto nelehkému cíli bychom společně rádi směřovali a budeme rádi,
 budete-li nám v tom pomocí, aby naše společné jméno mohlo být více,
 než jenom shluk hlásek na občance.
