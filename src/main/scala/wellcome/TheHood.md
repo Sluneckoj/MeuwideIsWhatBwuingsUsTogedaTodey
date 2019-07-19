@@ -12,7 +12,7 @@ Pokud byste preferovali jiné ubytování, litomyšl skýtá spoustu možností.
 
 
 Například ubytování v [**hotelu**](https://esclitomysl.cz/rezervace/typyPokoju) v Zámeckém pivovaru kde budete poblíž ostatních,
-nebo třeba [zde](www.tasner.cz) a [zde](www.zlatahvezda.com).
+nebo třeba [tady (Tašner)](www.tasner.cz) a [zde (Zlatá hvězda)](www.zlatahvezda.com).
 
 Další možnosti jsou již na Vás.
 
