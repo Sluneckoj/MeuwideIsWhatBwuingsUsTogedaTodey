@@ -14,8 +14,6 @@
 
 #### Těšíme se, že s námi budete moci sdílet tento důležitý okamih kterým skončí životy naše a začne ten náš.
 
-![#ffffff](https://placehold.it/15/ffffff/000000?text=+)
-
 #### Chtěli bychom Vám zároveň tímto dnem společně poděkovat za všechnu podporu, sdílení radostí i těžkých chvil, společný smích i pláč.
 #### Prostě všechno, co jsme s Vámi mohli prožít, co nás formovalo, a vedlo k sobě.
 
