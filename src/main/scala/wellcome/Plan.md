@@ -3,7 +3,7 @@
 ### 12:00_19:10:2019
 Se uskuteční náš svatební slib
 v kostele Sv. Martina v Dolním Újezdě.
-Tento čas stanoven přesně.
+Tento čas je stanoven přesně.
 Odklad je možný pouze na žádost nevěsty.
 
 ### 14:00_19:10:2019 - 15:00_19:10:2019
